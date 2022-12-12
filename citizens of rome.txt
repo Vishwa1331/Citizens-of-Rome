@@ -1,0 +1,65 @@
+9th Century BC:
+(Ancient Rome, Bronze Age)
+It is a busy Wednesday(Ares) morning. The day has just begun as the citizens of Carthage are getting ready to being the day. Markets and Plazas are starting to open, restaurants are looking over their orders for the day and factory workers are seen mixing up their bland and colourless liquid that appears to be porridge.
+
+In all this commotion, it is easy to lose Otho. This blacksmith, about average height, with sunken eyes and a cracked tunic, can easily pass as someone you really wouldn't worry about too much, almost like some kind of a supporting character. 
+
+Otho is in town today looking for a brand-new anvil. Sales this quarter have been fairly good, And he has been saving up for a bit. He enters the store and quickly, his eyes go to the shiny new anvil at the front of the shop. 
+
+
+Otho:
+Good sire, how much for this piece right here?
+
+Shopkeeper:(Without looking up from his counter)
+35 denarii.
+
+Otho:
+At the price, it better be blessed by the Lord himself.
+
+Shopkeeper:(Looks up at Otho)
+What’s that again?
+
+Otho:
+Oh! It is nothing. Don't you think paying 35 for this piece is a little outrageous?
+
+
+Shopkeeper:(sighhh)
+What can I say except, beggars can't be choosers!
+
+Otho:
+1)[Taunt] - Ohhh, then I wonder why they run hardware stores.
+2)[Angry]- You scoundrel!, who you calling a beggar?
+3)[Defensive]- Maybe if you could try changing your tone for the better, this conversation would go a lot better.
+
+Shopkeeper:(Angrily, raising his sleeves)
+Why don't you try saying that again to my face??
+
+
+Amidst all this commotion, a common thief uses his opportunity to steal a stone artifact from the store’s display and runs away.
+
+
+[The player now has 3 choices to make]
+1)[Chase down the robber to catch him and recover the artifact.]
+2)[Throw it in the shopkeeper’s face and call him out on his rudeness]
+3)Just shrug it off and walk away like it’s not your business.
+
+
+[If option (1) chosen]- (player chases robber, tackles him, retrieves the artifact which is then added to the player’s inventory). The player can now choose what to do with the artifact. He can either return it, keep it, or sell it.
+
+[If option (2) chosen]- (player gets into a fistfight with the shopkeeper)
+[If option (3) chosen]- (shopkeeper requests player to retrieve the artifact. He even promises to reduce the price of the anvil to 18 denarii.
+
+
+
+
+PLEASE NOTE:
+
+I have reached the 300-character word limit for which I am concluding the story and script at this point. If needed, I can further expand the whole story. I am not that good with programming but I can create quality content and stories for games, which is what I aspire to do down my career. Thank you
+
+ 
+
+
+
+
+ 
+
